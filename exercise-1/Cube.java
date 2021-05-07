@@ -1,7 +1,7 @@
 //Write a program in Java to display the cube of the number upto given an integer.
 
 
-import java .util.Scanner ;
+import java.util.Scanner ;
 class Cube{
 public static void main(String args[])
 {
