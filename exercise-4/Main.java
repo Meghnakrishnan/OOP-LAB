@@ -22,7 +22,7 @@ class Employee{							//BASE CLASS EMPLOYEE WITH DATA 4 MEMBERS
                 Salary=s;
                 Address=a;
 		}
-        Employee(){}						//METHOD NAMED Employee
+        Employee(){}						
 }
        
 
