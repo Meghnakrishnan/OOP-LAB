@@ -7,9 +7,9 @@ class Linear{
 public static void linearSearch(int a[],int n){
 int i;
 for(i=0;i<a.length;i++){
-if(a[i]==n){
-System.out.println(n +" found at location " +i);
-}
+     if(a[i]==n){
+           System.out.println(n +" found at location " +i);
+     }
 }
 }
 
@@ -19,7 +19,7 @@ int i;
 Scanner sc=new Scanner(System.in);
 System.out.println("Array elements are:");
 for(i=0;i<a.length;i++){
-System.out.print(" "+a[i]);
+          System.out.print(" "+a[i]);
 }
 System.out.println();
 System.out.println("Enter a number to search:");
