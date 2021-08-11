@@ -58,5 +58,5 @@ negative numbers are not allowed .please enter a new number
 Average of 2 positive numbers :6
 
 */
-
+//Verified
 				
