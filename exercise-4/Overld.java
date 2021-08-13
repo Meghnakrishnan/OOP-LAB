@@ -35,3 +35,4 @@ Area of square of side 4 is : 16.0
 Area of trapezium having base 3,5 and height 4 is : 16.0
 Area of triangle having base 3 and height 5 is : 7.5
 */
+//Verified
