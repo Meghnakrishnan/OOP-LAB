@@ -136,5 +136,5 @@ Perimeter of rectangle is: 22.0
 
 enter your choice:5
 */	
-
+//Verified
 
