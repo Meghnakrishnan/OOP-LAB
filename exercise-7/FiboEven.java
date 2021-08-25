@@ -118,3 +118,5 @@ even no:16
 even no:18
 even no:20
 /*
+Verified
+Fibonacci series not displayed correctly
