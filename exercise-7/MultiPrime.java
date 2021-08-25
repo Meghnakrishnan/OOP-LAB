@@ -93,3 +93,7 @@ Thread[Thread2,5,main] : 11
 Thread[Thread1,5,main] : 10 * 5 = 50
 
 */
+Verified
+Can enter limits from the main thread.
+No need to print the details of thread in output.
+Thread name only is enough or can give Prime no:
