@@ -26,3 +26,4 @@ Output :
 The elements in the set :
 A B C D
 */
+Verified
