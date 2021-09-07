@@ -47,4 +47,4 @@ Content of stack :A B C D E
 Enter position of an object to remove
 3
 Stack after an element removed A B C E
-*/
+*/ Verified
