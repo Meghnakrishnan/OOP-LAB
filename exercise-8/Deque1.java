@@ -44,3 +44,4 @@ After first element deleted :
 B C D E
 After all element deleted :
 */
+Verified
