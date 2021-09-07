@@ -29,3 +29,4 @@ Output :
 Original contents of ll: [F, B, D, E, C]
 Contents of ll after deletion: []
 */
+Verified
