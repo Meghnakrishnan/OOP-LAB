@@ -29,3 +29,4 @@ public class PriorityQ{
 Output :
 Queue elements : A B C D
 */
+Verified
