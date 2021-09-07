@@ -48,3 +48,4 @@ Contents of al after changing: [C, A2, A Changed, E, B, D, F]
 Size of al after deletions: 5
 Contents of al: [C, A2, E, B, D]
 */
+Verified
