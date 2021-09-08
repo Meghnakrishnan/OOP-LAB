@@ -113,19 +113,35 @@ integer stack
 _______________________
 
 enter size of  stack
-5
+3
 
 enter elements
-6
-4
-9
-2
+5
 7
+8
 
 how much element you want to pop:
 2
+the poped value is: 8
 the poped value is: 7
-the poped value is: 2
+
+_______________________
+string stack
+_______________________
+
+enter size of  stack
+4
+
+enter elements
+abi
+binu
+charu
+dinu
+
+how much element you want to pop:
+2
+the poped value is: dinu
+the poped value is: charu
 
 */
 Output incomplete
