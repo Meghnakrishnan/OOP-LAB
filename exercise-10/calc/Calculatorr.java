@@ -7,6 +7,7 @@ class Calculator extends Frame implements ActionListener{
   float result;
   public Calculator() {
     setLayout(null);
+    //create controls
     Label l1 = new Label("Enter number:",Label.RIGHT);
     Label l2 = new Label("Enter number:", Label.RIGHT);
     t1 = new TextField();
@@ -24,6 +25,8 @@ class Calculator extends Frame implements ActionListener{
     sub.setBounds(110,250,50,20);
     mul.setBounds(170,250,50,20);
     div.setBounds(230,250,50,20);
+    
+    //add controls to frame
     add(l1);
     add(l2);
     add(t1);
@@ -41,6 +44,7 @@ class Calculator extends Frame implements ActionListener{
   public void actionPerformed(ActionEvent e) {
     float num1 = Float.parseFloat(t1.getText()); 
     float num2 = Float.parseFloat(t2.getText()); 
+    //check and calculate
     if(e.getSource() == add) {
          result = num1 + num2;
     } else if(e.getSource() == sub) {
