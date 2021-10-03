@@ -44,7 +44,7 @@ public static void main(String args[]) throws IOException {							//throw except
 			} 
 			catch(IOException e) 
 			{
-				System.out.println("Error Closing file2.txt");
+				System.out.println("Error Closing 2a.txt");
 			}
 		}
 
